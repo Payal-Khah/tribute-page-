@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <style>
+ 
+        /* Styling the body element
+        like body color and margin */
+         
+        body {
+            background-color: grey;
+            margin: 20%;
+        }
+ 
+        /* Styling the Title and giving
+        shadow to the title */
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 7vh;
+        }
+ 
+        /* Setting width and display
+        type of image */
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+ 
+        /* Setting font color and font
+        size of the image-caption */
+        #caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+        div#tribute-data {
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+ 
+        /* Styling the title of the content */
+        h1.title-sidneysheldom {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        /* Styling the link provided at the end */
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+</head>
+ 
+<body>
+    <main id="main">
+ 
+        <!-- Title of the page -->
+        <h1 id="title">
+            SIDNEY SHELDON 
+        </h1>
+ 
+        <div id="img">
+ 
+            <!--Image of the writer-->
+            <img src="APJ Kalam.png" id="image"
+                alt="Error Loading Image">
+            <small id="caption">
+                HE WAS A NOVELIST, SCREEN WRITER , TELEVISION PRODUCER.   
+            </small>
+        </div>
+ 
+        <div id="DATA">
+ 
+            <!--Achievements and other
+                details of the writer -->
+            <h1 class="sidney sheldon ">
+                ABOUT THE WRITER 
+            </h1>
+ 
+             
+ 
+<p>
+                ☛ Sheldon was born Sidney Schechtel in Chicago, Illinois.  His parents, of Russian Jewish ancestry, were Ascher "Otto" Schechtel (1894–1967), manager of a jewelry store, and Natalie Marcus.
+                 At 10, Sidney made his first sale, US$5 for a poem. During the Depression, he worked at a variety of jobs, and after graduating from East High School in Denver, Colorado, he attended Northwestern University on a scholarship, and contributed short plays to drama groups.
+                He had to drop out after six months during the Depression era to help support his family.Sheldon enlisted in the military during World War II as a pilot in the War Training Service, a branch of the Army Air Corps.
+                His unit was disbanded, but he was discharged because of a recurring slipped disc before he was deployed.
+
+                <br><br>
+                ☛ In 1937, Sheldon moved to Hollywood, where he reviewed scripts and collaborated on a number of B movies<br><br>
+                ☛ Sheldon began writing musicals for the Broadway stage while continuing to write screenplays for both MGM Studios and Paramount Pictures. He earned a reputation as a prolific writer; for example, at one time, he and Ben Roberts had three musicals on Broadway - a rewritten The Merry Widow, Jackpot, and Dream with Music.[8] Sheldon received a Tony Award in 1959 for his musical Redhead, starring Gwen Verdon.[9] His other stage plays include Alice in Arms, The King of New York, The Judge, and Roman Candle. Only Roman Candle has been published as a book. The play Gomes was performed only in London and not on Broadway.<br><br>
+                ☛ Sheldon's success on Broadway brought him back to Hollywood, where his first assignment was The Bachelor and the Bobby-Soxer, which earned him the Academy Award for Best Original Screenplay in 1947.[10] He was one of the writers on the screenplay for the 1948 musical film Easter Parade and sole writer for the 1950 musical film Annie Get Your Gun, both of which featured the songs of Irving Berlin.[11] Some of his other writing credits include South of Panama, Gambling Daughters, Dangerous Lady, Borrowed Hero, Mr. District Attorney in the Carter Case, Fly-by-Night, She's in the Army, Nancy Goes to Rio, Three Guys Named Mike, No questions asked, Rich, Young and Pretty, Just This Once, Remains to be Seen, Dream Wife, You're Never Too Young, The Birds and the Bees, Anything Goes,Pardners, The Buster Keaton Story, All in a Night's Work, and Billy Rose's Jumbo.<br><br> ☛ Rejoining DRDO in 1982,
+                 IN 1969, SHELDOM WROTE HIS FIRST NOVEL  <strong>
+                “THE NAKED FACE ”</strong>
+                <br><br> ☛ Sheldon was first married to Jane Kaufman Harding (1945–1946). Later, he wrote "Regretfully, in less than a month, Jane and I realized we had made a mistake. ... We spent the next nine months trying in vain to make the marriage work."[18]
+                <br><br> ☛ He was married for 30 years to Jorja Curtright, a stage and film actress who later became an interior designer.[19] She played Suzanne in the 1955 film, Love Is a Many-Splendored Thing, and appeared in a season-one episode of I Dream of Jeannie as Madame Zolta.[20] Curtright died of a heart attack in 1985. Their daughter, Mary Sheldon, became a novelist, as well.[21][22]
+
+                Sheldon married Alexandra Joyce Kostoff, a former child actress[23][24] in Las Vegas in 1989.[25]
+                
+                
+                <br><br> Sheldon struggled with bipolar disorder for years; he contemplated suicide at 17 (talked out of it by his father, who found him with a bottle of whiskey and several bottles of sleeping pills), as detailed in his autobiography published in 2005, The Other Side of Me.[26]
+
+
+                <br><br> ☛ A resident of Palm Springs, California,[27] Sheldon died on January 30, 2007, of pneumonia at Eisenhower Medical Center in Rancho Mirage, California, 12 days before his 90th birthday.[6][1] His remains were cremated, the ashes interred in Westwood Village Memorial Park Cemetery.
+
+
+                <br><br> ☛ Sheldon won an Academy Award for Writing Original Screenplay (1947) for The Bachelor and the Bobby-Soxer, a Tony Award (1959) for his musical Redhead, and was nominated for an Emmy Award for his work on I Dream of Jeannie, an NBC sitcom. Sheldon was inducted into the Hollywood Walk of Fame in 1988[28] had a Golden Palm Star on the Palm Springs Walk of Stars dedicated to him in 1994.[29] In 1990, Sheldon received the Golden Plate Award of the American Academy of Achievement.[30]
+
+
+                <br><br> <STRONG > Midnight </STRONG> <BR> <BR>
+
+                *The Other Side of Midnight (1973)   <BR> <BR>
+                *Memories of Midnight (1990) <BR> <BR>
+                
+                
+                <STRONG >Ambitious Women </STRONG> <BR> <BR>
+                
+                The Stars Shine Down (1992)   <BR> <BR>
+                The Best Laid Plans (1997)  <BR> <BR>
+                The Sky Is Falling (2001)  <BR> <BR>
+
+                <STRONG> LONDON PLAYS </STRONG> <BR> <BR>
+                *GOMES        <BR> <BR>
+
+               <strong > Autobiography</strong> <BR> <BR>
+               The Other Side of Me (2005) <BR> <BR>
+
+               <strong >Broadway plays</strong> <BR> <BR>
+               The Merry Widow (1943)  <BR> <BR>
+               Jackpot (1944)  <BR>  <BR>
+               Dream with Music (1944)   <BR> <BR>
+               Alice in Arms (1945)  <BR> <BR>
+               Redhead (1959)  <BR> <BR>
+               Roman Candle (1960)  <BR> <BR>
+               The King of New York (1961)   <BR> <BR>
+               The Judge (1962) <BR> <BR>
+
+
+
+
+                
+
+                <br><br><br>
+            </p> <CENTER>  THANK YOU </CENTER >
+ 
+ 
+        </div>
+        <br>
+        
+    </main>
+</body>
+ 
+</html>
